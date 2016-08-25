@@ -1,2 +1,2 @@
 # bs.sender2ui
-today,compled first version. true more happly.
+today,compled first version. real more happly.
